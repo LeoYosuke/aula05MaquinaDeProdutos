@@ -1,0 +1,10 @@
+D:\Users\leonardo.ykonichi\source\repos\aula05MaquinaDeProdutos\aula05MaquinaDeProdutos\bin\Debug\aula05MaquinaDeProdutos.exe.config
+D:\Users\leonardo.ykonichi\source\repos\aula05MaquinaDeProdutos\aula05MaquinaDeProdutos\bin\Debug\aula05MaquinaDeProdutos.exe
+D:\Users\leonardo.ykonichi\source\repos\aula05MaquinaDeProdutos\aula05MaquinaDeProdutos\bin\Debug\aula05MaquinaDeProdutos.pdb
+D:\Users\leonardo.ykonichi\source\repos\aula05MaquinaDeProdutos\aula05MaquinaDeProdutos\obj\Debug\aula05MaquinaDeProdutos.csproj.AssemblyReference.cache
+D:\Users\leonardo.ykonichi\source\repos\aula05MaquinaDeProdutos\aula05MaquinaDeProdutos\obj\Debug\aula05MaquinaDeProdutos.BTNcompra.resources
+D:\Users\leonardo.ykonichi\source\repos\aula05MaquinaDeProdutos\aula05MaquinaDeProdutos\obj\Debug\aula05MaquinaDeProdutos.Properties.Resources.resources
+D:\Users\leonardo.ykonichi\source\repos\aula05MaquinaDeProdutos\aula05MaquinaDeProdutos\obj\Debug\aula05MaquinaDeProdutos.csproj.GenerateResource.cache
+D:\Users\leonardo.ykonichi\source\repos\aula05MaquinaDeProdutos\aula05MaquinaDeProdutos\obj\Debug\aula05MaquinaDeProdutos.csproj.CoreCompileInputs.cache
+D:\Users\leonardo.ykonichi\source\repos\aula05MaquinaDeProdutos\aula05MaquinaDeProdutos\obj\Debug\aula05MaquinaDeProdutos.exe
+D:\Users\leonardo.ykonichi\source\repos\aula05MaquinaDeProdutos\aula05MaquinaDeProdutos\obj\Debug\aula05MaquinaDeProdutos.pdb
